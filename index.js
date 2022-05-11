@@ -103,3 +103,9 @@
 
 // const tiger = new Tiger("Bob");
 // tiger.getName();
+
+const user = {
+  name: "Erion",
+};
+
+console.log(user);
